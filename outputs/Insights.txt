@@ -1,0 +1,24 @@
+Traffic Pattern Insights — HDBSCAN Clustering (Vijayawada)
+
+Total Clusters Detected:
+The clustering algorithm automatically grouped locations based on similarity in traffic behavior.
+Clusters represent regions that follow the same trend in speed, vehicle density and time of day.
+
+Peak Congestion Time:
+Most traffic buildup occurs during 8 AM – 10 AM and 5 PM – 7 PM
+This corresponds to office/commute peak hours.
+
+Road Type Impact:
+Main Roads and Service Roads show higher congestion levels.
+Highways show comparatively smooth traffic flow.
+
+Vehicle Type Impact:
+Congestion score is highest when truck density is high.
+Car and bike traffic also affect flow but to a lesser extent.
+
+Noise Points:
+A few scattered points are marked as noise – they do not belong to any cluster due to unusual / inconsistent traffic data.
+
+Final Interpretation:
+Cluster-based traffic analysis helps identify congestion hotspots without labeled data.
+It can assist in city planning, signal timing control and smart transport system development.
