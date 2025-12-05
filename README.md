@@ -1,4 +1,13 @@
-# &nbsp;        Traffic Pattern Analysis Using HDBSCAN
+## 🎥 Project Presentation Video
+
+You can watch the full video presentation of the **Traffic Pattern Analysis using HDBSCAN** project here:
+
+👉 **Video Link:** [Watch Presentation](<https://drive.google.com/file/d/1SH49hr4EICZPKXj52jTo6ExSONlNad3W/view?usp=sharing>)
+
+
+
+
+#       Traffic Pattern Analysis Using HDBSCAN
 
 
 
@@ -145,6 +154,7 @@ Insights file: `/outputs/insights.txt`
 #### Author
 
 Gopichand Alavala — CSE Student
+
 
 
 
